@@ -1,6 +1,6 @@
 # ML_code_demo
 
-This repository provide 3 Machine Learning algorithm demo implemented by Siqi Liu. 
+This repository provides 3 Machine Learning algorithm demo implemented by Siqi Liu. 
 
 ### Demo 1: 
 
@@ -8,7 +8,7 @@ Classification (KNN using k-d Trees, naive bayes)
 
 ### Demo 2: 
 
-Neuron Network 
+Deep Neural Network 
 
 ### Demo 3: 
 
